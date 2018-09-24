@@ -1,0 +1,7 @@
+C:\Stefan\Workspace\John Hatch Sports Camps\Registration_Book\bin\Debug\Registration_Book.exe.config
+C:\Stefan\Workspace\John Hatch Sports Camps\Registration_Book\bin\Debug\Registration_Book.exe
+C:\Stefan\Workspace\John Hatch Sports Camps\Registration_Book\bin\Debug\Registration_Book.pdb
+C:\Stefan\Workspace\John Hatch Sports Camps\Registration_Book\obj\Debug\Registration_Book.csprojAssemblyReference.cache
+C:\Stefan\Workspace\John Hatch Sports Camps\Registration_Book\obj\Debug\Registration_Book.csproj.CoreCompileInputs.cache
+C:\Stefan\Workspace\John Hatch Sports Camps\Registration_Book\obj\Debug\Registration_Book.exe
+C:\Stefan\Workspace\John Hatch Sports Camps\Registration_Book\obj\Debug\Registration_Book.pdb
